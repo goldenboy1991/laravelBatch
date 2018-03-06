@@ -4,7 +4,6 @@ Insert and update batch (bulk) in laravel
 # Install
 `composer require goldenboy1991/laravel-batch:dev-master`
 
-NOTE: [Click to install the previous version 1.0](https://github.com/mavinoo/laravelBatch/tree/v1.0).
 
 
 # Service Provider
