@@ -2,7 +2,7 @@
 Insert and update batch (bulk) in laravel
 
 # Install
-`composer require mavinoo/laravel-batch:dev-master`
+`composer require goldenboy1991/laravel-batch:dev-master`
 
 NOTE: [Click to install the previous version 1.0](https://github.com/mavinoo/laravelBatch/tree/v1.0).
 
@@ -10,13 +10,13 @@ NOTE: [Click to install the previous version 1.0](https://github.com/mavinoo/lar
 # Service Provider
 file app.php in array providers :
 
-`Mavinoo\LaravelBatch\LaravelBatchServiceProvider::class,`
+`Goldenboy\LaravelBatch\LaravelBatchServiceProvider::class,`
 
 
 # Aliases
 file app.php in array aliases :
 
-`'Batch' => Mavinoo\LaravelBatch\LaravelBatchFacade::class,`
+`'Batch' => Goldenboy\LaravelBatch\LaravelBatchFacade::class,`
 
 
 # Example Update 1

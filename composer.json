@@ -1,18 +1,18 @@
 {
-    "name": "mavinoo/laravel-batch",
+    "name": "goldenboy1991/laravel-batch",
     "description": "Insert and update batch (bulk) in laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohammad Ghanbari",
-            "email": "wordpress.iran@gmail.com"
+            "name": "Golden Boy",
+            "email": "goldferum@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Mavinoo\\LaravelBatch\\": "src/"
+            "Goldenboy\\LaravelBatch\\": "src/"
         }
     },
     "minimum-stability": "dev"
