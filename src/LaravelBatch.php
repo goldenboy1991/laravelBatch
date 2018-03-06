@@ -1,9 +1,9 @@
 <?php
 
-namespace Mavinoo\LaravelBatch;
+namespace Goldenboy\LaravelBatch;
 
 use Illuminate\Support\Facades\DB;
-use Mavinoo\LaravelBatch\Common\Helpers;
+use Goldenboy\LaravelBatch\Common\Helpers;
 
 class Batch
 {

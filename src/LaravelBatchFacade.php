@@ -1,6 +1,6 @@
 <?php
 
-namespace Mavinoo\LaravelBatch;
+namespace Goldenboy\LaravelBatch;
 
 use Illuminate\Support\Facades\Facade;
 

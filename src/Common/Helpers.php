@@ -1,6 +1,6 @@
 <?php
 
-namespace Mavinoo\LaravelBatch\Common;
+namespace Goldenboy\LaravelBatch\Common;
 
 class Helpers
 {
